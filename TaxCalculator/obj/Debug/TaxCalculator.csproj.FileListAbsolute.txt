@@ -1,0 +1,26 @@
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\bin\Debug\distanceCalculator.exe.config
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\bin\Debug\distanceCalculator.exe
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\bin\Debug\distanceCalculator.pdb
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\bin\Debug\DevComponents.DotNetBar2.dll
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\bin\Debug\DevComponents.DotNetBar2.xml
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\obj\Debug\distanceCalculator.MainForm.resources
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\obj\Debug\distanceCalculator.Properties.Resources.resources
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.Cache
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\obj\Debug\distanceCalculator.exe
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\obj\Debug\distanceCalculator.pdb
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\distanceCalculator\distanceCalculator\bin\Debug\TaxCalculator.exe.config
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.pdb
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\bin\Debug\DevComponents.DotNetBar2.dll
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\bin\Debug\DevComponents.DotNetBar2.xml
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csprojResolveAssemblyReference.cache
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\obj\Debug\distanceCalculator.MainForm.resources
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.Properties.Resources.resources
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.csproj.GenerateResource.Cache
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+D:\My Document\CMU 2016-2017\Spring 2017\C sharp\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
+C:\Users\Jason\Source\Repos\TaxCalculator\TaxCalculator\bin\Debug\TaxCalculator.exe.config
+C:\Users\Jason\Source\Repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.exe
+C:\Users\Jason\Source\Repos\TaxCalculator\TaxCalculator\obj\Debug\TaxCalculator.pdb
